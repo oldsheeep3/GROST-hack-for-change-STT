@@ -1,7 +1,11 @@
 {
+  "scripts": {
+    "start": "node ./src/transcribe.js"
+  },
   "dependencies": {
     "chokidar": "^4.0.3",
     "dotenv": "^17.2.3",
+    "ws": "^8.18.0",
     "openai": "^6.9.1"
   }
 }

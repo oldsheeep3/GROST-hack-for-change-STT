@@ -1,3 +1,5 @@
 .env
 assets
 node_modules
+*.mp3
+/segments
